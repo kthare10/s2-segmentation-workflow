@@ -32,6 +32,3 @@ workflow.yml
 data/
 *.npy
 *.hdf5
-
-# Logs
-cc-usage-log.md
